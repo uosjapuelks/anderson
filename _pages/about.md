@@ -21,6 +21,7 @@ and participate in Spikeball, Frisbee and Volleyball interest groups in the resi
 of [__NUS Funkstyles__](https://www.nuscac.net/sub-clubs/funkstyles/). I particularly enjoy fictional stories and am a big fan of Doctor Strange.
 
 ---
+
 Milestones
 ======
 
