@@ -20,7 +20,7 @@ Currently, I am the [__House Head__](https://rc4.nus.edu.sg/house-committee/) of
 and participate in Spikeball, Frisbee and Volleyball interest groups in the residential college. I'm also an active member 
 of [__NUS Funkstyles__](https://www.nuscac.net/sub-clubs/funkstyles/). I particularly enjoy fictional stories and am a big fan of Doctor Strange.
 
-
+---
 Milestones
 ======
 
