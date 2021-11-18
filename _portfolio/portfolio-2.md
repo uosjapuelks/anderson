@@ -9,7 +9,7 @@ collection: portfolio
 [Click Here to Checkout the repository](https://github.com/uosjapuelks/best-boss)
 
 ***
-#### Real-Time Operating System Project: Self Driving Remote Control Car
+### Real-Time Operating System Project: Self Driving Remote Control Car
 
 An ESP32 Wi-Fi Microcontroller is pre-programmed to connect to a hotspot. An app can then be used to establish connection with the robot and start giving intrsuctions to it.
 
