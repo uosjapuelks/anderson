@@ -11,6 +11,8 @@ collection: portfolio
 ***
 ### Fridget
 
+* [Download Fridget!](https://github.com/AY2122S1-CS2113T-W12-4/tp/releases/download/v2.1/Fridget.jar)
+
 Created as part of a group assignment for CS2113T Software Engineering and Object-Oriented Programming.
 
 Fridget was created to prevent food items expiring in the fridge for users that use it.
