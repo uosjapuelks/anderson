@@ -5,44 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="66439728-b02c-4d24-8e2f-807ba0725434" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_gameover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_mode1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_sound.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/navigation.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/portfolio.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-1.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026BoardIntro.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026BoardIntro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026Rain.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026Rain.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_7SegtVol_0.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_7SegtVol_0.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_7SegtVol_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_7SegtVol_1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol4.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol4.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol5.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol5.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol6.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol6.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol7.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol7.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol8.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol8.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_OledVol9.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_OledVol9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_barry.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_barry.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_barry2.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_barry2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_gameover.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_gameover1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_gameover1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_ghost.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_ghost.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_man.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_man.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_mode1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_mode2.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_mode2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_mode3.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_mode3.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_sound.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_sound1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_sound1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026_tombstone.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026_tombstone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2026miniIntro.png" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3/2026/2026miniIntro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_portfolio/portfolio-3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_portfolio/portfolio-3.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

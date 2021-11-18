@@ -4,16 +4,17 @@ excerpt: "A mini-game system on an FPGA Board - Basys 3 Board programmed using v
 collection: portfolio
 ---
 
-# Github
+***
+## Github
 [Click Here to Checkout the repository](https://github.com/uosjapuelks/digital-design)
 
-# FPGA Design Project: Sight and Sound Entertainment System
+### FPGA Design Project: Sight and Sound Entertainment System
 
 I made this as part of a group project assignment for EE2026 Digital Design. Verilog code and Vivado was used to program the FPGA Board.
 
 The Board can then play 3 different modes and respond to the user's inputs to the buttons and microphone that is attached to the board.
 
-## User Guide
+### User Guide
 
 |Feature|Input Devices|Feature Description|Images/Photos|
 |:---|:---:|:---|---:|
