@@ -11,7 +11,7 @@ redirect_from:
 
 A PDF version of my Curriculum Vitae is [available for download here!](http://uosjapuelks.github.io/anderson/files/Resume_Anderson_Leong.pdf)
 
-#EDUCATION
+# EDUCATION
 ### National University of Singapore <div style="text-align: right"> Aug 2020 - Present </div>
 Bachelor of Engineering (Computer Engineering)
 * Awarded ASEAN Undergraduate Merit Scholarship (Full coverage with allowance)
@@ -23,7 +23,7 @@ Singapore Cambridge GCE Advanced Level
 * Principal's Honour Roll 2018, ASEAN Scholarship 2018/19 (Top students across ASEAN and China)
 
 ___
-#WORK EXPERIENCE
+# WORK EXPERIENCE
 ### Math Vision Enrichment Centre <div style="text-align: right"> Feb 2020 - Mar 2020 </div>
 _Tutor - Physics, Chemistry_
 * Improved customer learning experience through creative use of analogies and illustrations on concepts
@@ -37,7 +37,7 @@ _Data Analytics Intern - Department of Industrial Systems Engineering and Manage
 * Organised data sets and removed duplicate data using Excel functions (COUNTIFS, Data Validation)
 
 ___
-#CO-CURRICULAR ACTIVITIES
+# CO-CURRICULAR ACTIVITIES
 ### Residential College 4 House of Aquila <div style="text-align: right"> May 2021 - Present </div>
 _Executive Committee - Head of House_
 * Directed a committee of 25 people to plan and execute events and welfare for over 100 residents
