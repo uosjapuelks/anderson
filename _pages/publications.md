@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/
+permalink: /publications/
 author_profile: true
 redirect_from:
-  - /portfolio/
+  - /publication/
 ---
 
 {% if author.googlescholar %}

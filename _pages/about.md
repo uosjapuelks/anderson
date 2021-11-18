@@ -27,11 +27,3 @@ Milestones
 
 ![Milestone_anderson](../images/milestone.png)
 
-
-Achievements
------
-
-
-Activities
------
-
