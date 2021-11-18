@@ -11,7 +11,7 @@ title                    : "I am ANDERSON"
 title_separator          : "-"
 name                     : &name "Anderson Leong"
 description              : &description "Aspiring Software Engineer"
-url                      : https://uosjapuelks.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://uosjapuelks.github.io # the base hostname & protocol for your site
 baseurl                  : "/anderson" # the subpath of your site, e.g. "/blog"
 repository               : "uosjapuelks/anderson.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
