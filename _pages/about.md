@@ -12,7 +12,7 @@ redirect_from:
 * I'm a proud resident of [__Residential College 4__](https://rc4.nus.edu.sg/), fostering Openness and Inclusion, 
 Care and concern for all living and non-living things, Love for learning, Confidence in self and others, and Willingness
 to pursue continuous improvement as a lifelong goal.
-* I found myself to have an increasing interest in technology, particularly in the areas of __SWE__, and would like to 
+* I found myself to have an increasing interest in technology, particularly in the areas of __Software Engineering__, and would like to 
 explore other areas such as __ML__, __Data Science__, and __Graphics__.
 * Academics aside, I joined a multitude of co-curricular activities in NUS. I was a [__Marketing Executive__](https://www.instagram.com/p/CQqi11tMbJd/) at [__NUS Students' Union Student Life Fair__](https://nus.edu.sg/osa/orientation/events/student-life-fair)
 and also initiated a community service project [__Young Buds NUS__](https://www.instagram.com/youngbuds.nus/) alongside my friends.
