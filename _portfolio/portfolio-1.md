@@ -27,4 +27,4 @@ Our project proved to be very, if not the most generalisable out of all teams, b
 
 ***
 ### External Communications Component (inclusive of Game Engine Component)
-[Click here to check out the External Communications Component](https://uosjapuelks.github.io/tp/UserGuide.html).
+[Click here to check out the External Communications Component](https://github.com/huien77/CG4002_ext_comm).
