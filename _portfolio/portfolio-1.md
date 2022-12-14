@@ -1,30 +1,30 @@
 ---
-title: "Fridget"
-excerpt: "A CLI app meant to assist in managing items in the fridge. <br /> ![Fridget](../images/FridgetIntro.jpg) <br /> [__CLICK TO KNOW MORE__](https://uosjapuelks.github.io/anderson/portfolio/portfolio-1/)"
+title: "CG4002 Capstone Laser Tag - Artificial Intelligence Component"
+excerpt: "An Augmented Reality laser tag game that has a gesture recognition system to detect actions as commands in the AR game. <br /> ![CG4002 Capstone](../images/CG4002Group.png) <br /> [__CLICK TO KNOW MORE__](https://uosjapuelks.github.io/anderson/portfolio/portfolio-1/)"
 collection: portfolio
 ---
 
 ---
 ## Github
-[Click Here to Checkout the repository](https://github.com/uosjapuelks/tp)
+[Click Here to Checkout the repository](https://github.com/uosjapuelks/capstoneml)
 
 ***
-### Fridget
+### CG4002 Augmented Reaility Laser Tag
 
-* [Download Fridget!](https://github.com/AY2122S1-CS2113T-W12-4/tp/releases/download/v2.1/Fridget.jar)
+* [Watch the Final Game Demo!](https://www.youtube.com/watch?v=ZkmZPc9GfTc&ab_channel=HoMingJun)
+* [Download Report!](http://uosjapuelks.github.io/anderson/files/CG4002Report.pdf)
 
-Created as part of a group assignment for CS2113T Software Engineering and Object-Oriented Programming.
+A project tasked to us in CG4002 Capstone Project for Computer Engineering Undergraduates.
 
-Fridget was created to prevent food items expiring in the fridge for users that use it.
+This laser tag allows for gestures to be input as action commands such as shield, throwing a grenade, or reload the guns.
 
-The application was made using Java.
+I was in charge of deploying Machine Learning models, extracting the weights to program the FPGA accelerator and integrating them into the game engine. I also undertook the responsibility of ensuring correct messages being sent to the Evaluation server while not compromising gameplay by taking up the role to debug and program the game engine component as well.
 
-[Click here to find out more!](https://uosjapuelks.github.io/tp/)
+The game was made using python, where communication with server, and relay laptops utilized TCP/IP, AI made use of an accelerator attached to Ultra96 programmed with trained weights from data collected from all 5 members, along with a game engine running on Ultra96 to send game states to an Evaluation server to be verified for correctness and latency. 
+Our project proved to be very, if not the most generalisable out of all teams, being able to predict 39 out of 40 actions right by the final demo where random players outside our team were chosen as players.
+
+[Click here to find out more!](https://github.com/uosjapuelks/capstoneml)
 
 ***
-### User Guide
-[Click here to check out the User Guide](https://uosjapuelks.github.io/tp/UserGuide.html).
-
-***
-### Developer Guide
-[Click here to check out the Developer Guide](https://uosjapuelks.github.io/tp/DeveloperGuide.html).
+### External Communications Component (inclusive of Game Engine Component)
+[Click here to check out the External Communications Component](https://uosjapuelks.github.io/tp/UserGuide.html).

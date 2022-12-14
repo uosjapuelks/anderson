@@ -32,24 +32,14 @@ Singapore Cambridge GCE Advanced Level
 
 ___
 # WORK EXPERIENCE
-## Math Vision Enrichment Centre 
+## NXP Smiconductors 
 
-<div style="text-align: right"><b> Feb 2020 - Mar 2020 </b></div>
+<div style="text-align: right"><b> May 2022 - Dec 2022 </b></div>
 
-_Tutor - Physics, Chemistry_
-* Improved customer learning experience through creative use of analogies and illustrations on concepts
-* Accomplished 98% positive rating by building rapport with customers and going beyond basic teaching scope
-* Voted Most Popular Tutor due to adaptability in tutoring students of different learning capabilities
-
----
-## National University of Singapore 
-
-<div style="text-align: right"><b> Nov 2018 - Dec 2018 </b></div>
-
-_Data Analytics Intern - Department of Industrial Systems Engineering and Management_
-* Surveyed for data on 1032 shophouses in HDB areas to cover possible shops missing on GOogle Maps
-* Gathered information such as shop name, phone number, opening hours and pictures of shop
-* Organised data sets and removed duplicate data using Excel functions (COUNTIFS, Data Validation)
+_Product Engineering Intern_
+* Discovered various machine learning models to improve the workflow of product engineers from traitional flows
+* Developed a GUI prototype using IronPython to allow experienced engineers to label data of TIBCO Spotfire
+* Utilized python Tensorflow library for Convolutional Neural Networks and Generative Adversarial Networks
 
 ___
 # CO-CURRICULAR ACTIVITIES
@@ -72,25 +62,36 @@ _Executive Committee - Marketing Executive_
 * Secured over $150,000 worth of products for giveaway goodie bags for the event
 * Facilitated the virtual event with a strong outreach totalling 7,596 visitors
 
+___
+# Academic Projects
+## CG4002 Capstone Laser Tag 
+
+<div style="text-align: right"><b> Aug 2022 - Nov 2022 </b></div>
+
+_Artificial Intelligence Component_
+* Helmed a team of 5 students to create a 2-Player Augmented Reality laser tag
+* Deployed a Convolutional Neural Network using Tensorflow for integration achieving above 95% validation
+* Achieved 99% expected results match during accelerator integration using Xilinx and C++
+* Undertook responsibility of Game Engine and state updating of server to achieve 39/40 correct predictions during testing
+
 ---
-## Catholic Junior College Canoeing 
+## Qlio Hotel Website 
 
-<div style="text-align: right"><b> Jun 2018 - Jun 2019 </b></div>
+<div style="text-align: right"><b> Dec 2021 - Jan 2022 </b></div>
 
-_Executive Committee - Secretary and Treasurer_
-* Oversaw administrative tasks and achieved 0% error in registering 21 members for competitions
-* Managed CCA funds worth over $500 for competition expenses
-* Planned and executed CCA trials, recruitment, and showcases for Open House 2019 (940 guests)
+_Front End Developer_
+* Collaborated with 2 other students to develop a website for a hotel
+* Utilized React.js libraries to realise a design a student made on Figma
 
 ---
-## Anglo Chinese School (Independent) Prefectorial Board 
+## Fridget Application 
 
-<div style="text-align: right"><b> Apr 2016 - Jun 2017 </b></div>
+<div style="text-align: right"><b> Sep 2021 - Nov 2022 </b></div>
 
-_Executive Committee - Head of House_
-* Guided student and parent visitors around campus to promote school as an Open hoouse 2017 Ambassador
-* Facilitated bonding and cihesion among a class of 35 freshmen during Year 1 Orientation 2017
-* Supervise a crowd of over 1000 attendees during major school events (ACSemble)
+_Developer_
+* Developed an item list CLI application meant to help organise items kept in the fridge with 3 other teammates
+* Employed standard coding practices, documentation, planning and project management procedures
+* Launched releases and resolved bugs submitted as issues in our github
 
 ___
 # Awards and Achievements
@@ -105,13 +106,16 @@ ___
 # Skills
 ## Programming Languages
 
-Python, C, C++, Java, Verilog
+Python, C, C++, Java, Verilog, Javascript, React.js, SQL
 
 ### Relevant Courseworks
 
 * Digital Design
 * Software Engineering & Object-Oriented Programming
 * Real-Time Operating Systems
+* Parallel Computing
+* Computer Engineering Capstone Project
+* Introduction to Information Security
 
 ## Languages
 

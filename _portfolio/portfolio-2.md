@@ -1,18 +1,30 @@
 ---
-title: "RTOS Self Driving / Remote Controlled Car"
-excerpt: "Mini-car that can be remote controlled via a phone app and wifi connection. <br/> ![](../images/2271Intro.png) <br /> [__CLICK TO KNOW MORE__](https://uosjapuelks.github.io/anderson/portfolio/portfolio-2/)"
+title: "Fridget"
+excerpt: "A CLI app meant to assist in managing items in the fridge. <br /> ![Fridget](../images/FridgetIntro.jpg) <br /> [__CLICK TO KNOW MORE__](https://uosjapuelks.github.io/anderson/portfolio/portfolio-2/)"
 collection: portfolio
 ---
 
 ---
 ## Github
-[Click Here to Checkout the repository](https://github.com/uosjapuelks/best-boss)
+[Click Here to Checkout the repository](https://github.com/uosjapuelks/tp)
 
 ***
-### Real-Time Operating System Project: Self Driving Remote Control Car
+### Fridget
 
-An ESP32 Wi-Fi Microcontroller is pre-programmed to connect to a hotspot. An app can then be used to establish connection with the robot and start giving intrsuctions to it.
+* [Download Fridget!](https://github.com/AY2122S1-CS2113T-W12-4/tp/releases/download/v2.1/Fridget.jar)
 
-Keil uVision5 was used along with languages C and C++ to program the robot. It uses KL25Z Freedom board integrated with an ARM microcontroller with Real Time Operating Systems along with interrupts to function. 
+Created as part of a group assignment for CS2113T Software Engineering and Object-Oriented Programming.
 
-An ultrasonic sensor is mounted at the front of the robot for sensing obstacles.
+Fridget was created to prevent food items expiring in the fridge for users that use it.
+
+The application was made using Java.
+
+[Click here to find out more!](https://uosjapuelks.github.io/tp/)
+
+***
+### User Guide
+[Click here to check out the User Guide](https://uosjapuelks.github.io/tp/UserGuide.html).
+
+***
+### Developer Guide
+[Click here to check out the Developer Guide](https://uosjapuelks.github.io/tp/DeveloperGuide.html).
